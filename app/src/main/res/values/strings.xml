@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TBC_Course_9</string>
+    <string name="field_name">Enter Field Name</string>
+    <string name="field_is_numeric">Field is Numeric</string>
+    <string name="add_field">Add Field</string>
+    <string name="empty_field">Field is Empty</string>
+</resources>
